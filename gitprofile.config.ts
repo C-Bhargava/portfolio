@@ -32,22 +32,7 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+        
       ],
     },
   },
@@ -76,23 +61,34 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'SQL',
+    'Python',
+    'Snowflake',
+    'PySpark',
+    'Tableau',
+    'Power BI',
+    'Vertica',
+    'Teradata',
+    'Informatica',
     'MySQL',
     'PostgreSQL',
+    'MongoDB',
+    'Neo4J',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'AWS',
+    'MS Azure',
+    'GCP',
+    'MS Office',
+    'Kafka',
+    'dbt',
+    'Java',
+    'Flask',
+    'HTML',
+    'CSS'
   ],
   experiences: [
     {
@@ -100,36 +96,36 @@ const CONFIG = {
       position: 'Data Engineer',
       from: 'June 2021',
       to: 'July 2024',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.amdocs.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'CGI Information Systems and Management Consultants Pvt. Ltd.',
+      position: 'Summer Intern',
+      from: 'June 2019',
+      to: 'July 2019',
+      companyLink: 'https://www.cgi.com/en',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'Snowflake Essentials Data Warehousing Badge',
       body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      year: 'December 2021',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Maryland, Robert H. Smith School of Business',
+      degree: 'MS in Information Systems',
+      from: '2024',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'SRM Institute of Science and Technology, Chennai (India)',
+      degree: 'B.Tech in Computer Science and Engineering',
+      from: '2017',
+      to: '2021',
     },
   ],
   publications: [
