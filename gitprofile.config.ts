@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['C-Bhargava/PostgreSQL_SF_BankingData', 'C-Bhargava/MongoDB_SF_InsuranceData','C-Bhargava/GNN-CommunityandPolarizationDetector','C-Bhargava/Barca-Analysis-tableau'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
