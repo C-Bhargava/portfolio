@@ -32,7 +32,7 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        'Information Systems Consultant for the College Park City-University Partnership - In Progress'
+        'https://communitypreservationtrust.org/to-be-updated-pages/'
       ],
     },
   },
@@ -61,7 +61,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/C-Bhargava/portfolio/blob/main/Chaitanya%20Bhargava%20-%20Resume%20-%20DE.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/C-Bhargava/C-Bhargava/blob/main/Chaitanya%20Bhargava%20-%20Resume%20-%20DE.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'SQL',
