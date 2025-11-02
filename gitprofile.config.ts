@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['C-Bhargava/portfolio','C-Bhargava/C-Bhargava'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -32,7 +32,7 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        
+        'Information Systems Consultant for the College Park City-University Partnership - In Progress'
       ],
     },
   },
@@ -61,7 +61,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/C-Bhargava/portfolio/blob/main/Chaitanya%20Bhargava%20-%20Resume%20-%20DE.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'SQL',
@@ -109,7 +109,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Snowflake Essentials Data Warehousing Badge',
-      body: 'Lorem ipsum dolor sit amet',
+      body: '',
       year: 'December 2021',
       link: 'https://example.com',
     },
@@ -136,7 +136,7 @@ const CONFIG = {
       authors: 'Chaitanya Bhargava, Shivam Mahur',
       link: 'https://turcomat.org/index.php/turkbilmat/article/view/6770/5585',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Rule  based  Vader  Analyzer  and a  hybrid  model  of  CNN-LSTM used on tweets scraped from Twitter to classify them as having depressive traits or not. This study attempts to maximize the utilization of all the available  linguisticfeatures present  in  the  tweets  and  makes  use of  proper  cleaning  and  pre-processing techniques  for  more accurate  diagnosis  of  depression.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
