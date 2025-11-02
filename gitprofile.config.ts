@@ -29,10 +29,18 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Work in Progress',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        'https://communitypreservationtrust.org/to-be-updated-pages/'
+        {
+        title: 'Information Systems Consultation for College Park City - University Partnership',
+        description: 'Designing and Developing an end-to-end integrated portal for Graduate Student Rental Program, helping the non-profit move away from manual processing of applications.',
+        link: 'https://communitypreservationtrust.org/to-be-updated-pages/',
+        },
+        {
+          title: 'Snowpro Core Certification',
+          description: 'In progress',
+        }
       ],
     },
   },
@@ -109,10 +117,22 @@ const CONFIG = {
   certifications: [
     {
       name: 'Snowflake Essentials Data Warehousing Badge',
-      body: '',
+      body: 'Snowflake',
       year: 'December 2021',
-      link: 'https://example.com',
+      link: 'https://www.credly.com/badges/11418a59-de94-4465-8525-332906acdfc9?source=linked_in_profile',
     },
+    {
+      name: 'Python for Data Science',
+      body: 'IBM',
+      year: 'October 2023',
+      link: 'https://courses.cognitiveclass.ai/certificates/d1909e40a57145c2b097ba75e7c669cd',
+    },
+    {
+      name: 'Database Management Systems',
+      body: 'NPTEL',
+      year: 'September 2019',
+      link: '',
+    }
   ],
   educations: [
     {
