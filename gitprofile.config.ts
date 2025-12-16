@@ -29,18 +29,14 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Work in Progress',
+      header: 'Capstone Project',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
         title: 'Information Systems Consultation for College Park City - University Partnership',
-        description: 'Designing and Developing an end-to-end integrated portal for Graduate Student Rental Program, helping the non-profit move away from manual processing of applications.',
+        description: 'Designed, Developed and Deployed an end-to-end integrated portal for Graduate Student Rental Program, helping the non-profit move away from manual processing of applications.',
         link: 'https://rent.communitypreservationtrust.org/',
         },
-        {
-          title: 'Snowpro Core Certification',
-          description: 'In progress',
-        }
       ],
     },
   },
