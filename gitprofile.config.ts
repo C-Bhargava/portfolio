@@ -35,7 +35,7 @@ const CONFIG = {
         {
         title: 'Information Systems Consultation for College Park City - University Partnership',
         description: 'Designing and Developing an end-to-end integrated portal for Graduate Student Rental Program, helping the non-profit move away from manual processing of applications.',
-        link: 'https://communitypreservationtrust.org/to-be-updated-pages/',
+        link: 'https://rent.communitypreservationtrust.org/',
         },
         {
           title: 'Snowpro Core Certification',
