@@ -35,6 +35,7 @@ const CONFIG = {
         {
         title: 'Information Systems Consultation for College Park City - University Partnership',
         description: 'Designed, Developed and Deployed an end-to-end integrated portal for Graduate Student Rental Program, helping the non-profit move away from manual processing of applications.',
+        imageUrl: 'https://communitypreservationtrust.org/wp-content/uploads/2023/08/Trust-Logo-Letterhead-V2-1-e1691519905444.png',
         link: 'https://rent.communitypreservationtrust.org/',
         }
       ],
