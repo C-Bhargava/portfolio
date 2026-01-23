@@ -62,7 +62,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'chaitanb@umd.edu',
+    email: 'chaitanb@terpmail.umd.edu',
   },
   resume: {
     fileUrl:
