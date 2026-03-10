@@ -66,7 +66,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/C-Bhargava/C-Bhargava/blob/main/Chaitanya%20Bhargava%20-%20Resume%20-%20DE.pdf', // Empty fileUrl will hide the `Download Resume` button.
+   // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'SQL',
