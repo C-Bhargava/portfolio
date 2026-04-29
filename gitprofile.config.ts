@@ -33,8 +33,8 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-        title: 'Information Systems Consultation for College Park City - University Partnership',
-        description: 'Designed, Developed and Deployed an end-to-end integrated portal for Graduate Student Rental Program, helping the non-profit move away from manual processing of applications.',
+        title: 'Information Systems (Data) Consultation for College Park City - University Partnership',
+        description: '•	Reduced manual processing by 70% across 1,000+ records by developing a full-stack data solution (Python, MySQL) with PII compliant storage, modernizing stakeholder-aligned data models.',
         imageUrl: 'https://communitypreservationtrust.org/wp-content/uploads/2023/08/Trust-Logo-Letterhead-V2-1-e1691519905444.png',
         link: 'https://rent.communitypreservationtrust.org/',
         }
@@ -73,6 +73,9 @@ const CONFIG = {
     'Python',
     'Snowflake',
     'PySpark',
+    'Kafka',
+    'LLM Integration',
+    'Prompt Engineering'
     'Tableau',
     'Power BI',
     'Vertica',
@@ -96,6 +99,13 @@ const CONFIG = {
     'CSS'
   ],
   experiences: [
+     {
+      company: 'University of Maryland',
+      position: 'Teaching Assistant: Enterprise Cloud Computing and Big Data',
+      from: 'March 2026',
+      to: 'Present',
+      companyLink: 'https://networth.rhsmith.umd.edu/courses/budt-737-2',
+    },
     {
       company: 'Amdocs',
       position: 'Data Engineer',
