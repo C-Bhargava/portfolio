@@ -75,7 +75,7 @@ const CONFIG = {
     'PySpark',
     'Kafka',
     'LLM Integration',
-    'Prompt Engineering'
+    'Prompt Engineering',
     'Tableau',
     'Power BI',
     'Vertica',
