@@ -101,7 +101,7 @@ const CONFIG = {
   experiences: [
      {
       company: 'University of Maryland',
-      position: 'Graduate Teaching Assistant: Enterprise Cloud Computing and Big Data',
+      position: 'Graduate Teaching Assistant: Enterprise Cloud Computing & Big Data',
       from: 'March 2026',
       to: 'June 2026',
       companyLink: 'https://networth.rhsmith.umd.edu/courses/budt-737-2',
